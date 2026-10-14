@@ -198,19 +198,19 @@ Do not use HeartAI to diagnose a person, make treatment decisions, or replace ad
 
 ## 3D Model Attribution
 
-HeartAI includes third-party 3D anatomical models. Their original license files are retained in the corresponding model directories.
+HeartAI uses the 3D anatomical model **"Cardiac Anatomy: Coronary arteries of the heart"** by **HannahNewey**.
 
-**Cardiac Anatomy: Coronary Arteries of the Heart**
+* **Model page:** https://skfb.ly/6yut8
+* **Creator:** HannahNewey — https://sketchfab.com/HannahNewey
+* **License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-* Creator: HannahNewey
-* Source: https://sketchfab.com/3d-models/cardiac-anatomy-coronary-arteries-of-the-heart-00b5f4ec0b984325b453f8df07cd0cb5
-* License: CC BY-NC-SA 4.0
+This work is based on "Cardiac Anatomy: Coronary arteries of the heart" by HannahNewey, licensed under CC BY-NC-SA 4.0.
 
-**Coronary Arteries: Blood Supply to Ventricles**
+The license requires attribution, prohibits commercial use, and requires adaptations to be shared under the same license. The original model license file is retained in the project.
 
-* Creator: E-learning UMCG
-* Source: https://sketchfab.com/3d-models/coronary-arteries-blood-supply-to-ventricles-60e1da3fbef542c6bcf61cdac312ce4f
-* License: CC BY-NC-SA 4.0
+The 3D model provides anatomical visualization only. Its geometry is not mapped to the model's predicted vessel-specific outcomes.
+
+
 
 These licenses require attribution, restrict commercial use, and impose share-alike requirements on adaptations. Consult the original licenses before redistributing adapted models or using them in a commercial context.
 
